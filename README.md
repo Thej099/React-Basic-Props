@@ -1,2 +1,2 @@
 # React-Basic-Props
-The project is mainly to understand about the props and the Retrival of Props, Children Props, PropTypes, DefaultProps, and Destructing of Props
+The main focus of this project is to gain a comprehensive understanding of React props, covering aspects such as prop retrieval, working with children props, utilizing PropTypes for type checking, setting default values with DefaultProps, and efficiently destructuring props. Join us in exploring these fundamental concepts that play a crucial role in building flexible and maintainable React applications.
